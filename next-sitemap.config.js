@@ -2,5 +2,5 @@
 module.exports = {
   siteUrl: 'https://ignaciobarboza.com',
   generateRobotsTxt: true,
-  outDir: './out',
+  outDir: './public',
 }
